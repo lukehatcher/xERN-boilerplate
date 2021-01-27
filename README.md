@@ -3,6 +3,7 @@
 - no database boilerplate
 - webpack bundler
 - async/await polyfills in App.jsx
+- no CSS setup at all (could use style-loader/css-loader || styled-comps)
 
 ## how to clone and use
 ```
